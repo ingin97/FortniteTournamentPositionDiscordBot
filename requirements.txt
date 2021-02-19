@@ -3,3 +3,4 @@ bs4
 selenium
 requests
 discord
+python-dotenv
