@@ -1,0 +1,5 @@
+webdriver_manager
+bs4
+selenium
+requests
+discord
